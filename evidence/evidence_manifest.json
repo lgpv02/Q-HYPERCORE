@@ -1,0 +1,17 @@
+{
+  "run_id": "1788898024",
+  "commit_sha": "ff049ab9dee51b6fd0aa1548ae81d3317db56333",
+  "evidence_bundle": "evidence/evidence_bundle_1788898024.tar.gz",
+  "bundle_sha256": "df316d1d1b5503ab87ee504f146ab13df54638ed4e38c4ab34d95479e441c6a1",
+  "bundle_size_bytes": 822,
+  "verification": {
+    "level": "L3",
+    "verified_by": "lgpv02",
+    "verified_at": "2026-09-08T20:12:24Z"
+  },
+  "tests": {
+    "total": 16,
+    "passed": 16,
+    "failed": 0
+  }
+}
