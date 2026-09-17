@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 
 import pytest
 
-from historical_clock import HistoricalClock, ClockContext, ClockRegressionError
+from q_hypercore.leviathan.historical_clock import HistoricalClock, ClockContext, ClockRegressionError
 
 
 def test_first_advance_sets_current():

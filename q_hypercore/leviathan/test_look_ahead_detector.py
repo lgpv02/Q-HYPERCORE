@@ -16,7 +16,7 @@ from datetime import datetime, timedelta
 
 import pytest
 
-from look_ahead_detector import (
+from q_hypercore.leviathan.look_ahead_detector import (
     LookAheadDetector,
     CollectorResult,
     DataStatus,
